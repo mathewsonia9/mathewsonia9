@@ -23,9 +23,7 @@ I'm a passionate QA professional with 10+ years of experience making sure softwa
 🔗 Let's connect on LinkedIn
 
 
-🗣️ Languages I Speak
-
-English |  Hindi |  Marathi  | Malayalam
+🗣️ Languages I Speak : English |  Hindi |  Marathi  | Malayalam
 
 📜 Certifications
 
@@ -34,5 +32,7 @@ English |  Hindi |  Marathi  | Malayalam
 🏅 Entry Level Integrated Training & Enablement Program — Tech Mahindra (2014)
 
 "Quality is never an accident; it is always the result of intelligent effort." ✨
+
+
 
 ⭐️ Feel free to explore my repositories and reach out — I'd love to connect!
